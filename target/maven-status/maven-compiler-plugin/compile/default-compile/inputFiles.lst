@@ -1,0 +1,8 @@
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/SpringDtoApplication.java
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/controller/UserController.java
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/dto/UserLocationDTO.java
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/model/Location.java
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/model/Student.java
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/repository/LocationRepository.java
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/repository/UserRepository.java
+/Users/gmlungusye/Downloads/spring-dto/src/main/java/com/goodamcodes/service/UserService.java

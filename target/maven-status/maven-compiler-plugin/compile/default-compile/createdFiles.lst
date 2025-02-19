@@ -1,0 +1,8 @@
+com/goodamcodes/model/Student.class
+com/goodamcodes/model/Location.class
+com/goodamcodes/controller/UserController.class
+com/goodamcodes/dto/UserLocationDTO.class
+com/goodamcodes/SpringDtoApplication.class
+com/goodamcodes/repository/UserRepository.class
+com/goodamcodes/service/UserService.class
+com/goodamcodes/repository/LocationRepository.class
